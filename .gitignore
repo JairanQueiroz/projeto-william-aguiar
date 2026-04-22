@@ -1,0 +1,13 @@
+# Windows thumbnail databases
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Project raw files (optional: common if you want to keep them local)
+# raw_files/
+
+# Log files
+*.log
